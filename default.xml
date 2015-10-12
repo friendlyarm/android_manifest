@@ -438,5 +438,6 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="vendor/friendly-arm/nanopi2" name="android_vendor_friendly-arm_nanopi2" remote="origin" revision="refs/heads/nanopi2-kitkat" />
+  <project path="vendor/nexell/s5p4418" name="nexell_platform_s5p4418" remote="origin" />
 
 </manifest>
