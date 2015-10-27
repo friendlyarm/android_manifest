@@ -5,7 +5,7 @@
            fetch="https://android.googlesource.com" />
 
   <remote  name="origin"
-           fetch=".."
+           fetch="."
            revision="refs/heads/s5p4418-kitkat" />
 
   <default revision="refs/tags/android-4.4.2_r1"
