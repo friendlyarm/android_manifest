@@ -2,7 +2,12 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch=".." />
+           fetch="https://android.googlesource.com" />
+
+  <remote  name="origin"
+           fetch="."
+           revision="refs/heads/l-amlogic-gx-sync" />
+
   <default revision="refs/tags/android-5.1.1_r6"
            remote="aosp"
            sync-j="4" />
