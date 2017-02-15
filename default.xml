@@ -62,6 +62,7 @@
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="device/samsung/manta" name="device/samsung/manta" groups="device,manta" />
   <project path="device/friendly-arm/nanopi2" name="android_device_friendly-arm_nanopi2" remote="origin" revision="refs/heads/nanopi2-lollipop-mr1" groups="device,nanopi2" />
+  <project path="device/friendly-arm/nanopi3" name="android_device_friendly-arm_nanopi3" remote="origin" revision="refs/heads/nanopi3-lollipop-mr1" groups="device,nanopi3" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" groups="pdk-cw-fs" />
@@ -520,8 +521,10 @@
   <project path="vendor/broadcom/nanopi2" name="android_vendor_broadcom_nanopi2" remote="origin" revision="refs/heads/nanopi2-lollipop-mr1" />
   <project path="vendor/friendly-arm/build" name="android_vendor_friendly-arm_build" remote="origin" revision="refs/heads/nanopi2-lollipop-mr1" groups="nanopi2" />
   <project path="vendor/friendly-arm/nanopi2" name="android_vendor_friendly-arm_nanopi2" remote="origin" revision="refs/heads/nanopi2-lollipop-mr1" groups="nanopi2" />
+  <project path="vendor/friendly-arm/nanopi3" name="android_vendor_friendly-arm_nanopi3" remote="origin" revision="refs/heads/nanopi3-lollipop-mr1" groups="nanopi3" />
   <project path="vendor/friendly-arm/apps" name="android_vendor_friendly-arm_apps" remote="origin" revision="refs/heads/nanopi2-lollipop-mr1" />
   <project path="vendor/nexell/s5p4418" name="nexell_platform_s5p4418" remote="origin" revision="refs/heads/nanopi2-lollipop-mr1" />
+  <project path="vendor/nexell/s5p6818" name="nexell_platform_s5p6818" remote="origin" revision="refs/heads/nanopi3-lollipop-mr1" />
   <project path="vendor/nexell/apps" name="android_vendor_nexell_apps" remote="origin" />
 
 </manifest>
